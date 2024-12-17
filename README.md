@@ -19,8 +19,8 @@ A simple game created using the **Godot Engine**. This is my first project in ga
 
 You can download the prebuilt game for your platform here:
 
-- **Windows**: [Download First Game.exe](link-to-your-release)  
-- **Linux**: [Download First Game.x86_64](link-to-your-release)  
+- **Windows**: [Download Godot Game.exe](https://github.com/Nanashi-bot/godot_game/releases/download/v1.0/Godot.Adventure.v1.0.exe)  
+- **Linux**: [Download Godot Game.x86_64](https://github.com/Nanashi-bot/godot_game/releases/download/1.0/Godot.Adventure.v1.0.x86_64)  
 
 ### Instructions:
 1. Download the file for your platform.  
