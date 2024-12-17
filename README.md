@@ -54,12 +54,16 @@ If you want to explore or modify the project:
 
 ## 🛠️ Tools Used
 
-***Godot Engine: Open-source game engine for 2D/3D games. ***
-***Language: GDScript ***
+**Godot Engine: Open-source game engine for 2D/3D games. **
+
+**Language: GDScript **
 
 ---
 
 ## 📷 Screenshots
+
+![Gameplay Screenshot 1](screenshots/screenshot1.png)
+![Gameplay Screenshot 2](screenshots/screenshot2.png)
 
 ---
 
@@ -83,7 +87,7 @@ Contributions are welcome! If you'd like to improve the game, feel free to:
 
 ---
 
-🧩 License
+### 🧩 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
